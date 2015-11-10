@@ -4,10 +4,10 @@
 
 ## Production Environment
 
-**Dashboard URL:** https://idealkassa.frieslandbank.nl/
+**Dashboard URL:** https://idealkassa.frieslandbank.nl/  
 **Payment Server URL:** https://idealkassa.frieslandbank.nl/ideal/iDEALv3
 
 ## Test Environment
 
-**Dashboard URL:** https://testidealkassa.frieslandbank.nl/
+**Dashboard URL:** https://testidealkassa.frieslandbank.nl/  
 **Payment Server URL:** https://testidealkassa.frieslandbank.nl/ideal/iDEALv3
