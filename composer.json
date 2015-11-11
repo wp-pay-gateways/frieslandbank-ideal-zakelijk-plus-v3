@@ -1,7 +1,7 @@
 {
 	"name": "wp-pay-gateways/frieslandbank-ideal-zakelijk-plus-v3",
-	"description": "Friesland Bank - iDEAL Zakelijk Plus - v3 driver for the WordPress payment processing library.",
-	"keywords": ["wordpress", "wp", "pay", "friesland", "bank", "ideal", "zakelijk", "plus", "v3", "gateway", "pronamic"],
+	"description": "[DEPRECATED] Friesland Bank - iDEAL Zakelijk Plus - v3 driver for the WordPress payment processing library.",
+	"keywords": ["deprecated", "wordpress", "wp", "pay", "friesland", "bank", "ideal", "zakelijk", "plus", "v3", "gateway", "pronamic"],
 	"homepage": "http://www.wp-pay.org/gateways/frieslandbank-ideal-zakelijk-plus-v3/",
 	"license": "GPL",
 	"authors": [
