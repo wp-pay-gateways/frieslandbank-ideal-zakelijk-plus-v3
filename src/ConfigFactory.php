@@ -10,6 +10,6 @@
  */
 class Pronamic_WP_Pay_Gateways_FrieslandBank_IDealZakelijkPlusV3_ConfigFactory extends Pronamic_WP_Pay_Gateways_IDealAdvancedV3_ConfigFactory {
 	public function __construct() {
-		parent::__construct( 'Pronamic_WP_Pay_Gateways_FrieslandBank_IDealZakelijkPlusV3_Config', 'Pronamic_WP_Pay_Gateways_FrieslandBank_IDealZakelijkPlusV3_ConfigTest' );
+		parent::__construct( 'Pronamic_WP_Pay_Gateways_FrieslandBank_IDealZakelijkPlusV3_Config', 'Pronamic_WP_Pay_Gateways_FrieslandBank_IDealZakelijkPlusV3_TestConfig' );
 	}
 }
